@@ -1,4 +1,3 @@
-# ZBY-AirPrint
 AirPrint Demo for ipad and iphone  苹果无线打印技术的几种实现方案
 
 之前因为项目需要在Github上发现关于AirPrint的资料不多，于是就有了现在这个方案分析
